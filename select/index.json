@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "FG ROADSTER (Double Clapperz Remix)",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2026-02-25T14:14:10.196618Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FG ROADSTER (Double Clapperz Remix)",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_FG_ROADSTER_(Double_Clapperz_Remix)_FLOW_GLOW.txt"
+    }
+  ]
+}
